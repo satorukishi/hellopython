@@ -88,3 +88,4 @@ else:
     print('Operador XOR deu falso')
 
 
+print('Acabou a aula')
